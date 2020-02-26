@@ -1,3 +1,16 @@
+@font-face {
+  font-family: "Lifted";
+  src: url("https://robertvinluan.com/assets/webfonts/Lifted-Sans.eot"); /* IE9 Compat Modes */
+  src: url("https://robertvinluan.com/assets/webfonts/Lifted-Sans.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("https://robertvinluan.com/assets/webfonts/Lifted-Sans.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("https://robertvinluan.com/assets/webfonts/Lifted-Sans.woff")
+      format("woff");
+}
+
 body {
   background: #060606;
   color: #ddd;
